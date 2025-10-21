@@ -40,7 +40,7 @@
 ## 📱 Projects  
 
 - 🍔 **Bendita Burger** – App Flutter + Laravel para pedir comida a un restaurante local de hamburguesas.  
-- ✅ **Gestor de Tareas Django** – Página web   
+- ✅ **Gestor de Tareas Django** – Página web de gestión de tareas con el framework (Django)  
 - 🧠 **IA & Automatización n8n** – Flujos automáticos para crear contenido y conectar APIs.  
 
 👉 Mira todos mis repos aquí → [github.com/cvidaal](https://github.com/cvidaal)
