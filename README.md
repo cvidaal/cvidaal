@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/cvidaal/cvidaal/blob/main/banner.png" height="250"/>
 </p>
 
 <h2 align="center">Hey there 👋! I'm <strong>Carlos Vidal</strong></h2>
