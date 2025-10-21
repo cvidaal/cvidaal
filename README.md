@@ -14,7 +14,7 @@
 - 🧱 He desarrollado apps reales como **VuelaEasy**, **Gestor de Tareas (Django)** y un **control de accesos por reconocimiento facial**.  
 - 📫 Me encantaría unirme a un equipo donde pueda seguir aprendiendo y aportar valor.  
 
-[![LinkedIn](https://img.shields.io/badge/-Carlos%20Vidal-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cvidaal)](https://www.linkedin.com/in/cvidaal)
+[![LinkedIn](https://img.shields.io/badge/-Carlos%20Vidal-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cvidaal)](https://www.linkedin.com/in/carlosvidaldev)
 [![Gmail Badge](https://img.shields.io/badge/-cvidaal.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cvidaal.dev@gmail.com)](mailto:cvidaal.dev@gmail.com)
 
 ---
@@ -39,8 +39,8 @@
 
 ## 📱 Projects  
 
-- ✈️ **VuelaEasy** – App Flutter + FastAPI para comprar billetes y gestionar asientos en tiempo real.  
-- ✅ **Gestor de Tareas Django** – CRUD completo con autenticación y base de datos SQLite.  
+- 🍔 **Bendita Burger** – App Flutter + Laravel para pedir comida a un restaurante local de hamburguesas.  
+- ✅ **Gestor de Tareas Django** – Página web   
 - 🧠 **IA & Automatización n8n** – Flujos automáticos para crear contenido y conectar APIs.  
 
 👉 Mira todos mis repos aquí → [github.com/cvidaal](https://github.com/cvidaal)
