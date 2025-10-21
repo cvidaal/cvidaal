@@ -15,7 +15,7 @@
 - 📫 Me encantaría unirme a un equipo donde pueda seguir aprendiendo y aportar valor.  
 
 [![LinkedIn](https://img.shields.io/badge/-Carlos%20Vidal-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cvidaal)](https://www.linkedin.com/in/carlosvidaldev)
-[![Gmail Badge](https://img.shields.io/badge/-cvidaal.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cvidaal.dev@gmail.com)](mailto:cvidaal.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-cvidaal.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cvidaal.dev@gmail.com)](mailto:carlosvidal.developer@gmail.com)
 
 ---
 
