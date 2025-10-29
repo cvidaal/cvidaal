@@ -25,7 +25,6 @@
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
 **Databases & Tools**  
