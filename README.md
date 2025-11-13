@@ -27,6 +27,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=3178C6)
 
 
 **Databases & Tools**  
