@@ -26,6 +26,8 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
 
 **Databases & Tools**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
