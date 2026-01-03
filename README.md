@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Carlos Vidal Sánchez</h1>
+
 <p align="center">
   <strong>Product Engineer | React, Node.js & Flutter</strong><br>
   <em>Cerrando la brecha entre el diseño visual y la ingeniería de software.</em>
@@ -58,9 +59,19 @@ Desarrollador enfocado a producto con una base sólida en **UX (User Experience)
 
 ### 📊 Actividad en GitHub
 
-![Estadísticas de Carlos Vidal](https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub"/>
+</p>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvidaal&theme=dark&hide_border=true" alt="Racha de contribuciones"/>
+</p>
+
+---
 
 <p align="center">
   <em>"Construyendo productos que conectan ideas con soluciones reales."</em>
