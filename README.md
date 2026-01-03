@@ -59,16 +59,15 @@ Desarrollador enfocado a producto con una base sólida en **UX (User Experience)
 
 ### 📊 Actividad en GitHub
 
-### 📊 Actividad en GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cvidaal&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados"/>
 </p>
----
+
+--- 
 
 <p align="center">
   <em>"Construyendo productos que conectan ideas con soluciones reales."</em>
