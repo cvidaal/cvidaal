@@ -18,11 +18,11 @@
 
 ### 👨🏻‍💻 Sobre mí
 
-[cite_start]Desarrollador enfocado a producto con una base sólida en **UX (User Experience)** forjada en la industria del videojuego AAA (Aeterna Noctis). [cite_start]Mi enfoque actual se centra en construir aplicaciones escalables y eficientes utilizando el ecosistema moderno de JavaScript y soluciones móviles nativas con Flutter[cite: 11, 31].
+Desarrollador enfocado a producto con una base sólida en **UX (User Experience)** forjada en la industria del videojuego AAA (**Aeterna Noctis**). Mi enfoque actual se centra en construir aplicaciones escalables y eficientes utilizando el ecosistema moderno de JavaScript y soluciones móviles nativas con Flutter.
 
-- [cite_start]🚀 **Especialista en Producto:** Capacidad demostrada para llevar ideas desde el concepto hasta el despliegue en tiendas oficiales (App Store & Google Play)[cite: 12, 15].
-- [cite_start]🏗️ **Arquitectura Robusta:** Implementación de sistemas de pago seguros (Stripe) y bases de datos en tiempo real (Firebase/PostgreSQL)[cite: 16, 30, 31].
-- [cite_start]🎮 **Background AAA:** Experiencia trabajando bajo metodologías ágiles en entornos de alto rendimiento[cite: 20, 21].
+- 🚀 **Especialista en Producto:** Capacidad demostrada para llevar ideas desde el concepto hasta el despliegue en tiendas oficiales (App Store & Google Play).
+- 🏗️ **Arquitectura Robusta:** Implementación de sistemas de pago seguros (Stripe) y bases de datos en tiempo real (Firebase/PostgreSQL).
+- 🎮 **Background AAA:** Experiencia trabajando bajo metodologías ágiles en entornos de alto rendimiento.
 
 ---
 
@@ -30,29 +30,29 @@
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend** | [cite_start]React.js, Next.js, TypeScript, Tailwind CSS, Framer Motion [cite: 29] |
-| **Backend** | [cite_start]Node.js, Express, PostgreSQL, MongoDB, Supabase [cite: 30, 32] |
-| **Mobile** | [cite_start]Flutter, Dart, Firebase, Stripe API [cite: 31] |
-| **Tools** | [cite_start]Git, GitHub, Postman, Vercel, n8n (Automatización) [cite: 32] |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, PostgreSQL, MongoDB, Supabase |
+| **Mobile** | Flutter, Dart, Firebase, Stripe API |
+| **Tools** | Git, GitHub, Postman, Vercel, n8n (Automatización) |
 
 ---
 
 ### 📱 Proyectos Destacados
 
-#### 🍔 [Bendita Burger](https://cvidal.dev)
-**Product Engineer | [cite_start]Flutter & Firebase** [cite: 13, 15]
-- [cite_start]Desarrollo integral de la app comercial y publicación en stores.
-- [cite_start]Integración de pagos con **Stripe** y sincronización en tiempo real con Firebase[cite: 16].
+#### 🍔 Bendita Burger
+**Product Engineer | Flutter & Firebase**
+- Desarrollo integral de la app comercial y publicación en stores.
+- Integración de pagos con **Stripe** y sincronización en tiempo real con Firebase.
 
-#### ⚡ [Acelerik.com](https://cvidal.dev)
-**Lead Frontend Developer | [cite_start]React & TypeScript** 
-- [cite_start]SPA de alto rendimiento optimizada con **TypeScript** para garantizar la escalabilidad del código[cite: 26].
-- [cite_start]Arquitectura basada en componentes modulares que redujo la deuda técnica del proyecto[cite: 27].
+#### ⚡ Acelerik.com
+**Lead Frontend Developer | React & TypeScript**
+- SPA de alto rendimiento optimizada con **TypeScript** para garantizar la escalabilidad del código.
+- Arquitectura basada en componentes modulares que redujo la deuda técnica del proyecto.
 
 #### 🏢 Ball Park Management (SaaS)
 **Full Stack Developer | Node.js & React**
 - Sistema de gestión de reservas para centros de ocio con flujos de automatización vía **n8n**.
-- Panel de administración para control de estados y base de datos relacional.
+- Panel de administración para control de estados y base de datos relacional con PostgreSQL.
 
 ---
 
