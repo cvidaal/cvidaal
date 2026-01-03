@@ -129,20 +129,13 @@ Trabajo en título AAA bajo metodologías ágiles, forjando mi enfoque centrado 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/cvidaal">
-    <img src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/cvidaal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvidaal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-stats-cvidaal.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvidaal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/cvidaal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=php,twig,html" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats-cvidaal.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=php,twig,html" alt="Top Languages"/>
 </p>
-<br/>
 
 ## 🎯 Lo Que Hago Diferente
 
