@@ -58,10 +58,9 @@ Desarrollador enfocado a producto con una base sólida en **UX (User Experience)
 
 ### 📊 Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=dark&hide_border=true" alt="Carlos Vidal's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![Estadísticas de Carlos Vidal](https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=dark&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=dark&hide_border=true)
 
 <p align="center">
   <em>"Construyendo productos que conectan ideas con soluciones reales."</em>
