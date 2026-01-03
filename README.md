@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Soy+Carlos+Vidal;Product+Engineer+%7C+Frontend+Specialist;De+AAA+Games+a+Productos+Digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Soy+Carlos+Vidal;Product+Engineer+%7C+Frontend+Specialist;Construyendo+Productos+Que+Importan" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -129,12 +129,12 @@ Trabajo en título AAA bajo metodologías ágiles, forjando mi enfoque centrado 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cvidaal&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cvidaal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6&hide=php,twig,html" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=php,twig,html" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -175,7 +175,7 @@ Trabajo en título AAA bajo metodologías ágiles, forjando mi enfoque centrado 
   
   ---
   
-  ### 💡 *"De pixels AAA a productos reales. Código con propósito."*
+  ### 💡 *"Construyendo productos que conectan ideas con soluciones reales."*
   
   ---
   
