@@ -129,12 +129,12 @@ Trabajo en título AAA bajo metodologías ágiles, forjando mi enfoque centrado 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-cvidaal.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvidaal&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-cvidaal.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvidaal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-cvidaal.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=php,twig,html&v=1" alt="Top Languages"/>
+  <img src="https://github-readme-stats-cvidaal.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cmake,c%2B%2B,css&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 ## 🎯 Lo Que Hago Diferente
