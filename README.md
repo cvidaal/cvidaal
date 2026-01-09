@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cvidaal/cvidaal/main/GithubBanner.jpg" alt="Carlos Vidal Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/cvidaal/cvidaal/main/Banner_Linkedin_Carlos.jpg" alt="Carlos Vidal Banner" width="100%"/>
 </div>
 
 <h1 align="center">
