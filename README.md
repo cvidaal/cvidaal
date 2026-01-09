@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Soy+Carlos+Vidal;Product+Engineer+%7C+Frontend+Specialist;Construyendo+Productos+Que+Importan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Soy+Carlos+Vidal;Full Stack+Developer+%7C+Frontend+Specialist;Construyendo+Productos+Que+Importan" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ```typescript
 const carlos = {
-  role: "Product Engineer",
+  role: "Full Stack Developer",
   background: "UX Designer @ AAA Gaming (Aeterna Noctis)",
   currentFocus: ["React Ecosystem", "Mobile Development", "Product Strategy"],
   
