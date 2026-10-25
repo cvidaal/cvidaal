@@ -36,12 +36,10 @@ Desarrollo integraciones en Go entre la plataforma de **Top Doctors** y sistemas
 
 ## 💼 Lo que hago
 
-| | |
-|---|---|
-| 🔌 **+10 integraciones** | Con APIs de terceros: datos maestros y ciclo completo de citas (disponibilidad, creación, cancelación y reprogramación) |
-| 📨 **Procesamiento asíncrono** | Eventos con GCP Pub/Sub, enrutado por integración y handlers por proveedor |
-| 🗂️ **Pipeline de datos** | Ingesta semanal de un catálogo público de medicamentos: XML → modelo relacional → API HTTP |
-| 🧪 **Código testeado** | Servicios por capas (handlers, servicios, repositorios, mappers) con tests unitarios y mocks |
+- 🔌 **+10 integraciones** con APIs de terceros: datos maestros y ciclo completo de citas (disponibilidad, creación, cancelación y reprogramación).
+- 📨 **Procesamiento asíncrono** con GCP Pub/Sub: publicación de eventos, enrutado por integración y handlers por proveedor.
+- 🗂️ **Pipeline de datos**: ingesta semanal de un catálogo público de medicamentos, de XML a modelo relacional y API HTTP.
+- 🧪 **Código testeado**: servicios por capas (handlers, servicios, repositorios, mappers) con tests unitarios y mocks.
 
 ## ⭐ Proyecto destacado
 
@@ -86,16 +84,8 @@ Desarrollo integraciones en Go entre la plataforma de **Top Doctors** y sistemas
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-cvidaal.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&locale=es" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=cvidaal&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cvidaal&theme=tokyo-night&hide_border=true&area=true&color=00ADD8&line=00ADD8&point=E6EDF3" alt="Gráfico de actividad"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cvidaal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trofeos"/>
 </p>
 
 ## 📫 Contacto
