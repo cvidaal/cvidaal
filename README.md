@@ -1,181 +1,97 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cvidaal/cvidaal/main/Banner_Linkedin_Carlos.jpg" alt="Carlos Vidal Banner" width="100%"/>
+  <img src="./banner-go.png" alt="Carlos Vidal · Backend Developer · Go" width="100%"/>
 </div>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zalando+Sans+Expanded&weight=700&pause=1000&color=38C2FF&center=true&width=435&lines=Hi%2C+i'm+Carlos+Vidal;Full+Stack+Developer+;Building+products+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00ADD8&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Carlos+Vidal+%F0%9F%91%8B;Backend+Developer+%C2%B7+Go;APIs+REST+%C2%B7+Webhooks+%C2%B7+GCP+Pub%2FSub;Conecto+sistemas+que+no+se+hablan+entre+s%C3%AD" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlosvidaldev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:carlosvidal.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://cvidal.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="https://www.linkedin.com/in/carlosvidaldev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:carlosvidal.developer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=cvidaal&color=00ADD8&style=for-the-badge&label=VISITAS" alt="Visitas al perfil"/>
 </p>
 
-<br/>
+## 🚀 Sobre mí
 
-## 🚀 Sobre Mí
+```go
+type Developer struct {
+	Name     string
+	Role     string
+	Company  string
+	Focus    []string
+	Learning []string
+}
 
-```typescript
-const carlos = {
-  role: "Full Stack Developer",
-  background: "UX Designer @ AAA Gaming (Aeterna Noctis)",
-  currentFocus: ["React Ecosystem", "Mobile Development", "Product Strategy"],
-  
-  skills: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    mobile: ["Flutter", "Dart", "Native Publishing"],
-    backend: ["Node.js", "Express", "PostgreSQL", "Firebase"],
-    tools: ["Git", "Stripe", "n8n", "Supabase"]
-  },
-  
-  superpower: "Transformar ideas en productos shippeados 🎯"
-};
+var carlos = Developer{
+	Name:     "Carlos Vidal",
+	Role:     "Integration Developer (Go)",
+	Company:  "Top Doctors · sector salud",
+	Focus:    []string{"APIs REST", "Webhooks", "GCP Pub/Sub", "Testing"},
+	Learning: []string{"Sistemas distribuidos", "Mensajería", "Observabilidad"},
+}
 ```
 
-<br/>
+Desarrollo integraciones en Go entre la plataforma de **Top Doctors** y sistemas externos del sector salud: aseguradoras, hospitales, software de gestión clínica y diagnóstico por imagen. El código de mi trabajo es privado; aquí están mis proyectos personales.
 
-## 💼 Experiencia Destacada
+## 💼 Lo que hago
+
+- 🔌 **+10 integraciones** con APIs de terceros: datos maestros y ciclo completo de citas (disponibilidad, creación, cancelación y reprogramación).
+- 📨 **Procesamiento asíncrono** con GCP Pub/Sub: publicación de eventos, enrutado por integración y handlers por proveedor.
+- 🗂️ **Pipeline de datos**: ingesta semanal de un catálogo público de medicamentos, de XML a modelo relacional y API HTTP.
+- 🧪 **Código testeado**: servicios por capas (handlers, servicios, repositorios, mappers) con tests unitarios y mocks.
+
+## ⭐ Proyecto destacado
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🍔 Bendita Burger
-**Product Engineer**
+### [Acelerik Booking](https://github.com/cvidaal/acelerik-demo)
+**API de reservas y pagos en Go** para parques infantiles.
 
-Desarrollo end-to-end de app comercial con Flutter, desde el diseño hasta la publicación en App Store y Google Play.
+- API REST con **Gin + Huma** y documentación **OpenAPI** generada
+- **PostgreSQL** con **pgx** y máquina de estados de reservas validada
+- **Stripe Checkout + webhooks**, con `SELECT … FOR UPDATE` para evitar pagos duplicados
+- Tests table-driven, **Docker Compose** y **CI con GitHub Actions**
 
-**Stack:** Flutter • Firebase • Stripe  
-**Logros:** Sistema de pagos + Real-time sync
-
-</td>
-<td width="50%">
-
-### ⚡ Acelerik.com
-**Lead Frontend Developer**
-
-SPA de alto rendimiento con arquitectura modular escalable, reduciendo significativamente la deuda técnica.
-
-**Stack:** React • TypeScript • Tailwind  
-**Logros:** Performance optimization + Clean architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏢 Ball Park Management
-**Full Stack Developer**
-
-SaaS para gestión de reservas con automatizaciones inteligentes y panel de administración completo.
-
-**Stack:** Node.js • React • PostgreSQL • n8n  
-**Logros:** Workflow automation + Admin dashboard
-
-</td>
-<td width="50%">
-
-### 🎮 Aeterna Noctis
-**UX Designer**
-
-Trabajo en título AAA bajo metodologías ágiles, forjando mi enfoque centrado en el usuario.
-
-**Stack:** Game Design • UX Research  
-**Logros:** Shipped AAA title + User-centric workflows
+[![Backend (Go)](https://github.com/cvidaal/acelerik-demo/actions/workflows/backend.yml/badge.svg)](https://github.com/cvidaal/acelerik-demo/actions/workflows/backend.yml)
 
 </td>
 </tr>
 </table>
 
-<br/>
+## 🛠️ Tech stack
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Services
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
-<br/>
-
-📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-cvidaal.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Google_Cloud_Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Pub/Sub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0B0F14?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+<p align="center"><sub>También he trabajado con</sub><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+</p>
+
+## 📊 GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats-cvidaal.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cmake,c%2B%2B,css,html" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&locale=es" alt="GitHub Stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=cvidaal&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones"/>
 </p>
+
+## 📫 Contacto
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cvidaal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  ¿Hablamos de Go, backend o integraciones? 👇<br/><br/>
+  <a href="https://www.linkedin.com/in/carlosvidaldev"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:carlosvidal.developer@gmail.com"><img src="https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<br/>
-
-## 🎯 Lo Que Hago Diferente
-
-<div align="center">
-
-| 🎨 UX-First Engineering | 🚢 Ship Fast & Iterate | 🏗️ Scalable Architecture |
-|:---:|:---:|:---:|
-| Background en diseño de experiencias AAA | Metodología ágil + Product mindset | Código limpio, mantenible y escalable |
-
-</div>
-
-<br/>
-
-## 📫 Conectemos
-
-<div align="center">
-
-¿Tienes un proyecto en mente? ¿Necesitas un developer con visión de producto?
-
-**Hablemos** 👇
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvidaldev)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosvidal.developer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cvidal.dev)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cvidaal&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views"/>
-</div>
-
-<div align="center">
-  
-  ---
-  
-  ### 💡 *"Construyendo productos que conectan ideas con soluciones reales."*
-  
-  ---
-  
-</div>
