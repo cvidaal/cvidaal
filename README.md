@@ -1,181 +1,34 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cvidaal/cvidaal/main/Banner_Linkedin_Carlos.jpg" alt="Carlos Vidal Banner" width="100%"/>
-</div>
+# Carlos Vidal · Backend Developer (Go)
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zalando+Sans+Expanded&weight=700&pause=1000&color=38C2FF&center=true&width=435&lines=Hi%2C+i'm+Carlos+Vidal;Full+Stack+Developer+;Building+products+" alt="Typing SVG" /></a>
-</h1>
+Desarrollo integraciones en Go en **Top Doctors**. Sincronizo agendas y citas entre la plataforma y sistemas externos del sector salud (aseguradoras, hospitales, software de gestión clínica, diagnóstico por imagen) usando APIs REST, webhooks y GCP Pub/Sub.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlosvidaldev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:carlosvidal.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://cvidal.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+El código de mi trabajo es privado. Aquí están mis proyectos personales.
 
-<br/>
+## Lo que hago
 
-## 🚀 Sobre Mí
+- **Más de 10 integraciones** con APIs de terceros: datos maestros (centros, doctores, servicios, seguros) y ciclo completo de citas.
+- **Procesamiento asíncrono** con GCP Pub/Sub: publicación de eventos y handlers por proveedor.
+- **Pipeline de ingesta** semanal de un catálogo público de medicamentos: parseo de XML, modelo relacional, migraciones y API HTTP.
+- **Servicios por capas** (handlers, servicios, repositorios, mappers) con tests unitarios y mocks.
 
-```typescript
-const carlos = {
-  role: "Full Stack Developer",
-  background: "UX Designer @ AAA Gaming (Aeterna Noctis)",
-  currentFocus: ["React Ecosystem", "Mobile Development", "Product Strategy"],
-  
-  skills: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    mobile: ["Flutter", "Dart", "Native Publishing"],
-    backend: ["Node.js", "Express", "PostgreSQL", "Firebase"],
-    tools: ["Git", "Stripe", "n8n", "Supabase"]
-  },
-  
-  superpower: "Transformar ideas en productos shippeados 🎯"
-};
-```
+## Proyecto destacado
 
-<br/>
+### [Acelerik Booking](https://github.com/cvidaal/acelerik-demo): API de reservas y pagos en Go
 
-## 💼 Experiencia Destacada
+Sistema de reservas y cobro de señal para parques infantiles.
 
-<table>
-<tr>
-<td width="50%">
+- API REST con **Gin + Huma** (documentación OpenAPI generada) sobre **PostgreSQL** con **pgx**.
+- Máquina de estados de reservas validada: pendiente, confirmada, cancelada, completada.
+- Cobro de señal con **Stripe Checkout y webhooks**, con transacciones y `SELECT … FOR UPDATE` para evitar pagos duplicados.
+- Tests unitarios table-driven de servicios y handlers.
 
-### 🍔 Bendita Burger
-**Product Engineer**
+## Stack
 
-Desarrollo end-to-end de app comercial con Flutter, desde el diseño hasta la publicación en App Store y Google Play.
+- **Backend:** Go · Gin · APIs REST · Webhooks · GCP Pub/Sub
+- **Datos:** SQL · PostgreSQL · GORM · pgx
+- **Testing y herramientas:** testing de Go · mockery · Docker · Git
+- **También he trabajado con:** TypeScript · Node.js · React · Flutter
 
-**Stack:** Flutter • Firebase • Stripe  
-**Logros:** Sistema de pagos + Real-time sync
+## Contacto
 
-</td>
-<td width="50%">
-
-### ⚡ Acelerik.com
-**Lead Frontend Developer**
-
-SPA de alto rendimiento con arquitectura modular escalable, reduciendo significativamente la deuda técnica.
-
-**Stack:** React • TypeScript • Tailwind  
-**Logros:** Performance optimization + Clean architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏢 Ball Park Management
-**Full Stack Developer**
-
-SaaS para gestión de reservas con automatizaciones inteligentes y panel de administración completo.
-
-**Stack:** Node.js • React • PostgreSQL • n8n  
-**Logros:** Workflow automation + Admin dashboard
-
-</td>
-<td width="50%">
-
-### 🎮 Aeterna Noctis
-**UX Designer**
-
-Trabajo en título AAA bajo metodologías ágiles, forjando mi enfoque centrado en el usuario.
-
-**Stack:** Game Design • UX Research  
-**Logros:** Shipped AAA title + User-centric workflows
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Services
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
-<br/>
-
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-cvidaal.vercel.app/api?username=cvidaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-cvidaal.vercel.app/api/top-langs/?username=cvidaal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cmake,c%2B%2B,css,html" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cvidaal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-<br/>
-
-## 🎯 Lo Que Hago Diferente
-
-<div align="center">
-
-| 🎨 UX-First Engineering | 🚢 Ship Fast & Iterate | 🏗️ Scalable Architecture |
-|:---:|:---:|:---:|
-| Background en diseño de experiencias AAA | Metodología ágil + Product mindset | Código limpio, mantenible y escalable |
-
-</div>
-
-<br/>
-
-## 📫 Conectemos
-
-<div align="center">
-
-¿Tienes un proyecto en mente? ¿Necesitas un developer con visión de producto?
-
-**Hablemos** 👇
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvidaldev)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosvidal.developer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cvidal.dev)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cvidaal&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views"/>
-</div>
-
-<div align="center">
-  
-  ---
-  
-  ### 💡 *"Construyendo productos que conectan ideas con soluciones reales."*
-  
-  ---
-  
-</div>
+[LinkedIn](https://www.linkedin.com/in/carlosvidaldev) · [carlosvidal.developer@gmail.com](mailto:carlosvidal.developer@gmail.com)
